@@ -5,7 +5,6 @@ public class A {
 /*public  void print(){
 
 	System.out.println("A's ss print");
-	System.out.println("A's AA print");
 }
 */	
 	public A() {
