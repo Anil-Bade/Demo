@@ -21,4 +21,8 @@ public class A {
 	static {
 		System.out.println("static block A");
 	}
+	private String getString(){
+		return "";
+		
+	}
 }
